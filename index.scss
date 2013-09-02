@@ -1,5 +1,5 @@
 @function card-url($path) {
-  @return url("../local/creditcard/assets/#{$path}");
+  @return url("../components/iman-styles-accepted-cards/assets/#{$path}");
 }
 
 .accepted-cards {
