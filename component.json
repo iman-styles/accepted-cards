@@ -5,5 +5,11 @@
   "dependencies": {},
   "styles": [
     "index.scss"
+  ],
+  "files": [
+    "assets/amex-logo.png",
+    "assets/diners-logo.png",
+    "assets/mastercard-logo.svg",
+    "assets/visa-logo.svg"
   ]
 }
