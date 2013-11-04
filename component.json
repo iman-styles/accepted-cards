@@ -1,6 +1,6 @@
 {
   "name": "accepted-cards",
-  "main": "index.scss",
+  "main": "index.css",
   "version": "0.1.0",
   "dependencies": {},
   "styles": [
