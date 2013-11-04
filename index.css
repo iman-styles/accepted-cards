@@ -1,0 +1,41 @@
+.accepted-cards {
+  margin-top: 32px;
+}
+
+.accepted-card {
+  background-color: #fff;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  border: 1px solid #fff;
+  box-shadow: 0 1px 1px rgba(#000, 0.2);
+  display: block;
+  float: left;
+  height: 30px;
+  margin-left: 10px;
+  overflow: hidden;
+  text-indent: -9999px;
+}
+
+.accepted-card:first-child {
+  margin: 0;
+}
+
+.accepted-card .visa {
+  background-image: url('assets/visa-logo.png');
+  width: 48px;
+}
+
+.accepted-card .mastercard {
+  background-image: url('assets/mastercard-logo.png');
+  width: 48px;
+}
+
+.accepted-card .amex {
+  background-image: url('assets/amex-logo.png');
+  width: 30px;
+}
+
+.accepted-card .diners {
+  background-image: url('assets/diners-logo.png');
+  width: 43px;
+}
